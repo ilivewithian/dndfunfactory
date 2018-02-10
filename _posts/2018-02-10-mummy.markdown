@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mummy"
-img: mummy.jpeg
+img: Mummy.jpeg
 date:   2018-02-10 00:00:00 +0200
 description: Mummy-a-go-go.
 ---
