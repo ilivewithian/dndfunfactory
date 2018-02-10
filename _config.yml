@@ -4,8 +4,8 @@ title: D&D Fun Factory
 description: > # this means to ignore newlines until "baseurl:"
   D&D Fun Factory - The Place for all your Daddy and Daniel Fun
 permalink: ':title/'
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://dndfunfactory.com"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://dndfunfactory.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Social
 facebook: #Add your Facebook
@@ -14,7 +14,7 @@ google-plus: #Add your Google+
 github: #Add your Github
 
 # Contact form
-email: daddy@dndfunfactory.com
+email: #your-email@domain.com
 
 # Comments
 discus-identifier: # Add your Disqus identifier

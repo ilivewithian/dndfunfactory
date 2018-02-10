@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Mummy"
+img: mummy.jpeg
+date:   2018-02-10 00:00:00 +0200
+description: Mummy-a-go-go.
+---
+
+This is a picture of my mummy. My mummy is the best mummy in the whole wide world. I love her lots.
